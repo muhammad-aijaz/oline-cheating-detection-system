@@ -6,7 +6,6 @@ from object_detection.utils import label_map_util
 from object_detection.utils import visualization_utils as viz_utils
 
 
-
 # Set TensorFlow logging level to suppress unnecessary messages
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
